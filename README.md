@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/i4Ds/introduction-to-datascience-dsai.git/HEAD?urlpath=%2Fdoc%2Ftree%2Fpython%2FKrankenkasse_Template.ipynb)
+
 ## Von Daten zu Insights: Data Science & AI
 
 Für diverse Workshops zum Studiengang Data Science und AI werden in diesem Repository Dateien zum Programm abgelegt:
